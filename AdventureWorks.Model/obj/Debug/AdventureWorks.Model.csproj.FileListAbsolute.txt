@@ -1,0 +1,18 @@
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll.config
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.pdb
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll.config
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll.config
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\bin\Debug\AdventureWorks.Model.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.csprojResolveAssemblyReference.cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Model\obj\Debug\AdventureWorks.Model.pdb

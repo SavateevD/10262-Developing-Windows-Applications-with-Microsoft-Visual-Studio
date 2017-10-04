@@ -1,0 +1,27 @@
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.pdb
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\ShinyBlue.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\BureauBlue.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources_MarkupCompile.cache
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.g.resources
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\ShinyBlue.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\BureauBlue.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources_MarkupCompile.cache
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.g.resources
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\bin\Debug\AdventureWorks.Resources.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.csprojResolveAssemblyReference.cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\ShinyBlue.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\Themes\BureauBlue.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources_MarkupCompile.cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.g.resources
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.Resources\obj\Debug\AdventureWorks.Resources.pdb

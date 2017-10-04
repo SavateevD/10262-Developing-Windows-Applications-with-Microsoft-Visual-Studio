@@ -1,0 +1,102 @@
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe.config
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.cache
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.lref
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.g.resources
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.resources
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.fr-FR.resources
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.pdb
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.pdb
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.pdb
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.baml
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.exe
+E:\Labfiles\Lab 14\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe.config
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.exe
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.dll
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.pdb
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.cache
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.lref
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.baml
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.g.resources
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.resources
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.fr-FR.resources
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe.config
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.exe
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.WorkOrders.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Model.dll.config
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\bin\Debug\AdventureWorks.Resources.pdb
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.csprojResolveAssemblyReference.cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\OptionsView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\App.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders_MarkupCompile.lref
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\AboutWindowView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\MainWindowView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\ScratchPadView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrdersView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\Views\WorkOrderView.baml
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.g.resources
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.resources
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.Properties.Resources.fr-FR.resources
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.csproj.GenerateResource.Cache
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\fr-FR\AdventureWorks.WorkOrders.resources.dll
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.exe
+H:\Programming\Specialist.ru\Специалист\Курс 10262\Labfiles\Lab 14\CS\Solution\AdventureWorks.WorkOrders\AdventureWorks.WorkOrders\obj\x86\Debug\AdventureWorks.WorkOrders.pdb
